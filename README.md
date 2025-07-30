@@ -43,3 +43,9 @@ Install it:
 ```bash
 chmod +x ZED_SDK_Ubuntu22_cuda12.8_tensorrt10.9_v5.0.5.zstd.run
 ./ZED_SDK_Ubuntu22_cuda12.8_tensorrt10.9_v5.0.5.zstd.run
+
+
+
+## Run code
+
+```python3 live_mesh.py --frame 500
